@@ -79,14 +79,15 @@ let livro = prompt("Você leu livros hoje?")
 alert(roupa + " lavei roupa " + fruta + " comi frutas " + " , li um pouco " + livro)
 */
 
-let a = 10
-let b = 25
-let c = a
-let b = d 
-let 
+/*let a = 10;
+let b = 25;
+let c = a;
+a = b;
+b = c;
+
 
 // Aqui faremos uma lógica para trocar os valores
 
 // Depois de trocados, teremos o seguinte resultado:
 console.log("O novo valor de a é", a) // O novo valor de a é 25
-console.log("O novo valor de b é", b) // O novo valor de b é 10
+console.log("O novo valor de b é", b) // O novo valor de b é 10 */
