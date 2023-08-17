@@ -3,9 +3,9 @@
 um comentário mais extenso, de mais de uma 
 linha */
 
-//console.log ("Olá Mundo")//
+/*console.log ("Olá Mundo")
 
-//prompt("qual o seu nome?")//
+prompt("qual o seu nome?")*/
 
 /*const idade = 23;
 
@@ -63,7 +63,30 @@ console.log(typeof nome, typeof idade)
 
 Após executar o código, o typeof mostra string e string */
 
-const nome = Leonardo
-const idade = 32
+/*const nome = prompt("Qual seu nome?")
+const idade = prompt("Qual sua idade?")
 
-prompt("Olá",nome "você tem",idade,"anos")
+
+alert("Olá " + nome + " você tem " + idade +" anos")
+
+console.log(typeof nome, typeof idade)
+f) Após inserir os dados no prompt, as variáveis retornaram como string*/
+
+/*let roupa = prompt("Você lavou roupa hoje?") 
+let fruta = prompt("Você comeu frutas hoje?") 
+let livro = prompt("Você leu livros hoje?") 
+
+alert(roupa + " lavei roupa " + fruta + " comi frutas " + " , li um pouco " + livro)
+*/
+
+let a = 10
+let b = 25
+let c = a
+let b = d 
+let 
+
+// Aqui faremos uma lógica para trocar os valores
+
+// Depois de trocados, teremos o seguinte resultado:
+console.log("O novo valor de a é", a) // O novo valor de a é 25
+console.log("O novo valor de b é", b) // O novo valor de b é 10
