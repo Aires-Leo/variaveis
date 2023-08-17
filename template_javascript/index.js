@@ -19,13 +19,51 @@ maca = 25;*/
 
 const idade = 32*/
 
-console.log ("Olá!" , "Meu nome é", nome, "e eu tenho", idade , "anos")
+/*console.log ("Olá!" , "Meu nome é", nome, "e eu tenho", idade , "anos")
 
 const primeiroNome = "Leonardo"; 
 const sobrenome = "Aires da Silva"
 const idade = 32
 const estudante = true;
 
-console.log (primeiroNome, sobrenome, idade, estudante)
+console.log (primeiroNome, sobrenome, idade, estudante)*/
+
+/* Exercício Interpretação de código
+
+Resposta 1
+let a = 10 atribui para variável "a" o valor de 10
+let b = 10 atribui para variável "b" o valor de 10
+
+console.log(b) Imprime a variável "b"
+
+b = 5 altera o valor "b" para 5
+console.log(a, b) Imprime os valores de a e de b
+
+Resposta 2 
+Ao executar o código, o console exibirá o seguinte: 10 10 10
+
+Resposta 3
+Ao abrir a página, uma caixa me perguntará quantas horas eu trabalho por dia, 
+depois quanto eu recebo por dia e em seguida me informará qundo eu recebo por hora.
+*/
+
+//Exercício de escrita de código//
+/*let nome 
+let idade
+
+console.log(typeof nome, typeof idade) */
+
+//Por não ter definido um valor para as variáveis, no console consta "undefined"//
+
+/*let nome = prompt("Qual seu nome?")
+let idade = prompt("Qual sua idade")
 
 
+console.log(typeof nome, typeof idade)
+
+Após executar o código, o typeof mostra string e string */
+
+const nome = Leonardo
+const idade = 32
+
+prompt("Olá",nome "você tem",idade,"anos")
